@@ -1,8 +1,8 @@
 # PaynetEasy Payment Plugin for Bitrix
 
-# 1. [Plugin Installation](https://github.com/annihilatoratm/modx-doc/blob/main/documentation/modx-eng.md#2-plugin-installation-1)
+# 1. [Plugin Installation](https://github.com/annihilatoratm/bitrix-doc/blob/main/documentation/doc-eng.md#1-plugin-installation-1)
 
-# 1. Plugin Installation
+## 1. Plugin Installation
 1.1. Connect via FTP to the server and place the folder “payneteasypayments.ecom” with the plugin in the root folder site_folder/bitrix/modules. 
 1.2. Install the plugin:
   * Marketplace -> Marketplace -> Установленные решения
